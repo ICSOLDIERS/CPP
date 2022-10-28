@@ -1,0 +1,6 @@
+low level - close to hardware
+high level - away from hardware
+
+low level<layer of abstraction <high level
+
+VARIABLE:- variables are just containers to store your data.
